@@ -1,0 +1,1 @@
+This is the iOS application for the CITIES Purify research application.
